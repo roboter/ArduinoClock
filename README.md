@@ -6,4 +6,6 @@ DS1302 RTC
 Arduino nano
 
 #Video
-<video src="./clock.mp4"></video>
+
+https://user-images.githubusercontent.com/386485/235453814-eafb6d12-a159-49f7-aaa6-82d5a3d0413a.mp4
+
